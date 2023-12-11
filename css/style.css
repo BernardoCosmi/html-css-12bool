@@ -1,0 +1,43 @@
+.row{
+    min-height: 20px;
+    border: 1px solid black;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.red{
+    background-color: #CF3431;
+}
+.orange{
+    background-color: #fc9a01;
+}
+.pink{
+    background-color: #fb82ab;
+}
+.yellow{
+    background-color: #fee932;
+}
+.green{
+    background-color: #4baf4e;
+}
+.red{
+    background-color: #CF3431;
+}
+.lightblue{
+    background-color: #3195f5;
+}
+.purple{
+    background-color: #643bb6;
+}
+.gray{
+    background-color: #9e9e9e;
+}
+.lightpink{
+    background-color: #FECED2;
+}
+.purple-dot{
+    background-color: #9C27B3;
+}
